@@ -16,13 +16,5 @@ Hi，guys！欢迎来到我的个人博客，我是嘟嘟，一名前端开发�
 - 跨端开发（小程序，Electron，Taro，NW.js 等）
 - 前端基础知识（HTML，CSS，JavaScript，Typescript，浏览器原理等）
 
-### 可以转载到 xxx 吗？
 
-可以，本项目所有内容均为原创，转载请联系本人授权。
-
-<p align="center">
-  <a href="https://fedtop.com" target="_blank" rel="noopener noreferrer">
-    <img width="700" src="https://assets.fedtop.com/picbed/fedtop.png" alt="荣顶 - 个人博客">
-  </a>
-</p>
 # blog
